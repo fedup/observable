@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ component install anthonyshort/observable
+    $ component install fedup/observable
 
 ## API
 
